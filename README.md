@@ -22,5 +22,6 @@ The module daitcategoryslider is distributed in the hope that it will be useful,
 
 ### Copyright 
 (c) Dalley IT 2017
+
 ```www.dalley-it.com```
 
