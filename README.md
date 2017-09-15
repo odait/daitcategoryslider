@@ -1,6 +1,6 @@
 # OXID Slider for categories
 
-*This module extends OXID to show the bannerslider of OXID's theme flow in category sites. OXID actions are extended to a new actiontype called categoryslide or "Kategorienslide". The functions like assigning products or links are like those of the original banner actions.*
+*This module extends OXID to show the bannerslider of OXID's theme flow in category sites. OXID actions are extended to a new type called categoryslide or "Kategorienslide". The functions like assigning products or links are like those of the original banner actions.*
 
 ## Compatibility
 Tested with CE 4.10.2 and EE 5.3.2. I think it should also work with PE, but i haven't checked this yet.
