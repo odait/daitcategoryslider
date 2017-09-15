@@ -20,7 +20,7 @@ It is recommended to backup your database and OXID-Installation before installin
 ## License Agreement
 The module daitcategoryslider is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-###Copyright 
+### Copyright 
 (c) Dalley IT 2017
-www.dalley-it.com
+```www.dalley-it.com```
 
