@@ -12,7 +12,7 @@ To use the module:
 
 2. activate the module in your backend.
 
-3. add actions of type categoryslide and assign the category, you want the slider/banners to be shown.
+3. add actions of type categoryslide and assign the category in which the slider/banners should be shown.
 
 ### Recommendation
 It is recommended to backup your database and OXID-Installation before installing the module. It also might be a good idea to install this modul in a test-environment (stagearea) to see if it fits your requirements before porting it to a productive system.
