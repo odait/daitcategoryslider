@@ -8,7 +8,7 @@ Tested with CE 4.10.2 and EE 5.3.2. I think it should also work with PE, but i h
 ## Installation
 To use the module:
 
-1. copy all files and directories inside the folder copy_this to the root directory of your OXID Installation.
+1. copy all files and directories inside the folder *copy_this* to the *root* directory of your OXID Installation.
 
 2. activate the module in your backend.
 
