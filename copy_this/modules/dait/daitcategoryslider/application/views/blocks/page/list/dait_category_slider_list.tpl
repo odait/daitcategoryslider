@@ -1,0 +1,11 @@
+[{if $oView->getClassName()=='alist' }]
+    [{assign var="oActiveCategory" value=$oView->getActiveCategory()}]
+    [{assign var="sCategoryId" value=$oActiveCategory->oxcategories__oxid->value}]
+    [{if $oViewConf->hasCategorySlides($sCategoryId)}]
+    
+        [{block name="dait_category_slider_page_list_listhead"}]
+            [{include file="dait_category_slider.tpl"}]
+        [{/block}]
+    [{/if}]
+[{/if}]
+[{$smarty.block.parent}]
