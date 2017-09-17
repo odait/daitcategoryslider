@@ -97,7 +97,7 @@
             <td >[{ oxmultilang ident="GENERAL_FILTERING" }]<br /><br /></td>
         </tr>
         <tr class="edittext">
-            <td align="center"><b>[{ oxmultilang ident="SHOP_CONFIG_ACTIVECATEGORYBYSTART" }]</b></td>
+            <td align="center"><b>[{ oxmultilang ident="DAIT_SLIDER_CATEGORY" }]</b></td>
         </tr>
         <tr>
             <td valign="top" id="container1"></td>
