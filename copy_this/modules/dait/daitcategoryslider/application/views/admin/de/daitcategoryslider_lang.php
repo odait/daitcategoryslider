@@ -33,6 +33,7 @@ $aLang = array(
         'DAIT_PROMOTIONS_MAIN_ASSIGN_CATEGORY'      => 'Kategorie zuordnen',
         'DAIT_PROMOTIONS_MAIN_ASSIGNEDDEFAULTCAT'   => 'Zugewiesene Kategorie:',
         'DAIT_PROMOTIONS_BANNER_ASSIGNEDCATEGORY'   => 'Zugeordnete Kategorie',
+        'DAIT_SLIDER_CATEGORY'                      => 'Kategorie, in welcher das Slide angezeigt werden soll.',
         'DAIT_INSTALL_SUCCESSFULL'                  => 'Modul DAIT Slider für Kategorien erfolgreich installiert.',
 );
 
