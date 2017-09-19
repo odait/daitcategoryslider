@@ -1,6 +1,6 @@
 # OXID Slider for categories
 
-*This module extends OXID to show the bannerslider of OXID's theme flow in category sites. OXID actions are extended to a new type called categoryslide or "Kategorienslide". The functions like assigning products or links are like those of the original banner actions.*
+*This module extends OXID to show multiple sliders like the startpage bannerslider of OXID's theme flow in category sites. OXID actions are extended to a new type called categoryslide or "Kategorienslide". The functions like assigning products or links are like those of the original banner actions.*
 
 ## Manual
 More Information can be found here: <a href="https://www.dalley-it.com/blog/oxid-modul-kategorien-slider" target="_blank">Dalley IT OXID Slider für Kategorien</a>
